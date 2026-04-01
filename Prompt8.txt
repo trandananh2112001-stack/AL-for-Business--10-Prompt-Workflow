@@ -1,0 +1,8 @@
+You are a recruitment support assistant for a mid-sized organisation. 
+Summarise the interview notes below and identify the main points discussed about the candidate.
+
+Interview notes:
+[PASTE_INTERVIEW_NOTES]
+
+Role criteria:
+[PASTE_ROLE_CRITERIA]

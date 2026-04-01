@@ -1,32 +1,24 @@
-# Interview Note
+**Interview notes summary**
 
-**Candidate:** Emily Tran  
-**Position:** Data Analyst  
-**Interview Date:** 8 April 2026  
-**Interview Time:** 10:00 AM  
-**Interview Format:** Online via Microsoft Teams  
-**Interviewers:** HR Advisor and Team Leader  
+Emily Tran presented as a professional, well-prepared, and engaged candidate during the interview for the Data Analyst role. She communicated clearly, answered questions in a calm and structured way, and showed genuine interest in the opportunity. The panel notes suggest she was confident when discussing her background and was able to provide relevant examples from experience. She also appeared comfortable in the online format and maintained a positive, respectful manner throughout. 
 
-## Interview Summary
+**Main points discussed about the candidate**
 
-Emily Tran attended the interview as scheduled and presented herself in a professional and polite manner. She communicated clearly throughout the discussion and responded to questions with a calm and structured approach. Her overall presentation was positive and she appeared well prepared for the interview.
+The main positive themes from the interview were:
 
-## Candidate Performance Notes
+* strong professional presentation and punctuality
+* clear and logical communication
+* respectful and positive engagement with the interviewers
+* apparent preparation for the interview
+* confidence in discussing her background and work approach
+* ability to explain ideas in a way that was easy to follow
+* demonstrated interest in the Data Analyst role. 
 
-- Emily demonstrated a clear interest in the Data Analyst role and spoke confidently about her background and experience.
-- She answered questions in a logical way and was able to explain her ideas in a manner that was easy to follow.
-- Her communication style was professional, and she engaged respectfully with both interviewers.
-- Emily appeared comfortable in the online interview setting and maintained a positive attitude throughout the session.
-- She showed an ability to reflect on her experience and provide relevant examples when discussing her skills and work approach.
+**Fit against the role criteria**
 
-## General Observations
+Based on the notes alone, Emily appears to align most clearly with the criterion around presenting findings clearly to non-technical stakeholders, because her communication was described as clear, logical, and easy to follow. However, the notes do **not** provide enough detail to confirm her capability against several core technical criteria such as Excel, SQL, dashboard tools like Power BI/Tableau, relevant years of experience, degree background, Python/R, KPI reporting, or experience with business and operational data. Those areas would need to be confirmed through panel scoring, CV review, or more detailed interview evidence.  
 
-- Punctual and well presented
-- Professional and courteous manner
-- Clear verbal communication
-- Positive engagement with the interview panel
-- Appeared prepared and interested in the opportunity
+**Overall takeaway**
 
-## Additional Notes
+The interview notes paint Emily as a credible and professional candidate with strong interpersonal and communication qualities. The main limitation is that the notes are high-level and focus more on presentation and interview manner than on direct evidence against the technical and experience-based requirements of the Data Analyst role.  
 
-This note records general observations from Emily Tran’s interview for the Data Analyst position. Further assessment details can be added based on the interview panel’s evaluation and selection criteria.
