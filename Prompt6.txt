@@ -1,13 +1,13 @@
-You are a recruitment support assistant for a mid-sized organisation. Based on the recruitment brief and candidate screening summary below, generate a set of interview questions for the panel.
+You are a recruitment support assistant for a mid-sized organisation. Based on the recruitment brief and candidate screening summary below, generate a structured set of interview questions for the panel.
 
-Include general role-fit questions, clarification questions linked to candidate gaps, and behavioural questions linked to the role responsibilities.
+Include five general role-fit questions linked to essential criteria, three clarification questions linked to candidate gaps or unclear areas, and two behavioural questions linked to role responsibilities.
 
-Present the result as a structured table with the following columns:
+Present the result as a table with the following columns:
 - Question
 - Purpose
 - Linked criterion or gap
 
-Use only the role criteria and candidate screening summary provided. Keep the questions practical, role-relevant, and useful for interview preparation.
+Use only the role criteria and candidate screening summary provided. Keep the questions professional, fair, and directly relevant to the role. Avoid discriminatory, personal, or legally sensitive questions, and do not assume that the candidate lacks a skill unless it has already been marked as “No” or “Unclear.”
 
 Recruitment brief:
 [PASTE_RECRUITMENT_BRIEF]
