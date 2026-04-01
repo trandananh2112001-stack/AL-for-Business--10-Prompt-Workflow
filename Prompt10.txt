@@ -1,8 +1,13 @@
 You are a recruitment coordinator for a mid-sized organisation. Draft a polite and professional rejection email to an unsuccessful candidate.
 
-The email should include appreciation for the candidate’s time and interest, the job title, a clear outcome notification, and a courteous closing.
+Your task is to create a respectful and safe candidate communication that clearly closes the recruitment process without creating legal, reputational, or fairness risks.
 
-Keep the message under 160 words and present it as a complete email with a subject line and body. Use a warm and professional tone.
+The email should include appreciation for the candidate’s time and interest, the job title, a clear but respectful outcome notification, an optional note that another candidate has been selected, and a courteous closing.
 
-Candidate name: [Sarah Le]
-Job title: [Data Analyst]
+Keep the message under 160 words and present it as a complete email with a subject line and body. 
+Use a warm, respectful, and professional tone. 
+Do not provide detailed feedback unless it has been explicitly supplied, do not include discriminatory or comparative language, and do not make future promises unless instructed.
+
+Candidate name: [Sarah Le] 
+Job title: [Data Analyst] 
+Feedback to include (optional): [We were pleased to see your strong academic background in statistics and your early exposure to reporting and dashboard-related work. On this occasion, we are moving forward with candidates whose experience more closely aligns with the role’s current requirements, particularly in hands-on analytics experience and technical tools]
