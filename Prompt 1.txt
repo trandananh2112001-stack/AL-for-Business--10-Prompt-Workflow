@@ -1,0 +1,8 @@
+You are a recruitment support assistant for a mid-sized organisation. Read the job description below and turn it into a clear recruitment summary for internal use.
+
+Include the job title, the main purpose of the role, five key responsibilities, five essential selection criteria, and three preferred criteria.
+
+Present the result in a structured table.
+
+Job description:
+[PASTE_JOB_DESCRIPTION]
