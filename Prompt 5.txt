@@ -1,13 +1,14 @@
-You are a recruitment support assistant for a mid-sized organisation. Compare the shortlisted candidates below using the screening summaries provided.
+You are a recruitment support assistant for a mid-sized organisation. Compare the shortlisted candidates below using the screening summaries provided, and prepare a structured comparison to support shortlist discussion.
 
-For each candidate, summarise the strongest matches to the role and identify any gaps or unclear areas that should be considered during shortlisting.
+For each candidate, summarise the strongest matches to the role, identify any gaps or unclear areas, and assign an overall level of alignment using one of the following labels: Strong, Moderate, or Limited.
 
 Present the comparison as a structured table with the following columns:
 - Candidate
 - Strongest matches
 - Gaps or unclear areas
+- Overall alignment
 
-Use only the screening summaries provided. Keep the comparison concise, role-relevant, and focused on recruiter decision support.
+Use only the screening summaries provided. Do not introduce new judgments that are not supported by the source material. Keep the analysis concise, role-relevant, and balanced, and do not make a final hiring recommendation.
 
 Screening summaries:
 [PASTE_SCREENING_SUMMARIES]
