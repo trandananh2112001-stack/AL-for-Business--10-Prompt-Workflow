@@ -1,0 +1,51 @@
+Candidate Name: Sarah Le
+Location: Melbourne, Australia
+Email: sarah.le@email.com
+Phone: 0433 456 789
+
+Professional Summary
+Recent graduate with internship experience in reporting and data support. Strong interest in analytics, dashboarding, and business performance reporting. Motivated to build a career in data analysis and decision support.
+
+Education
+Bachelor of Statistics
+University of Melbourne
+Graduated: 2024
+
+Internship Experience
+Data and Reporting Intern
+Vista Health Group
+Melbourne, Australia
+Jul 2024 – Dec 2024
+
+- Assisted with preparing monthly reports for internal teams
+- Helped clean and organise reporting data in Excel
+- Supported dashboard updates under supervision
+- Worked with team members to check data consistency
+- Prepared summary slides for internal performance meetings
+
+Part-Time Administrative Assistant
+CityWest Education
+Melbourne, Australia
+Mar 2022 – Jun 2024
+
+- Maintained spreadsheets and internal records
+- Assisted with data entry and document checking
+- Supported reporting preparation for team managers
+
+Technical Skills
+- Microsoft Excel
+- Tableau (basic)
+- SPSS
+- SQL (introductory coursework only)
+
+Key Strengths
+- Strong attention to detail
+- Good written communication
+- Willingness to learn
+- Academic background in statistics
+
+Additional Information
+- No clear evidence of commercial business analysis experience
+- No demonstrated Python or R experience
+- Limited evidence of presenting insights to senior stakeholders
+
