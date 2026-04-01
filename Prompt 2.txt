@@ -1,13 +1,14 @@
-You are a recruitment support assistant for a mid-sized organisation. Using the recruitment brief below, create a screening rubric that can help recruiters assess candidates more consistently during shortlisting.
+You are a recruitment support assistant for a mid-sized organisation. Using the recruitment brief below, create a screening rubric that will help recruiters assess candidates more consistently during shortlisting.
 
-Organise the role requirements into essential criteria and preferred criteria. For each criterion, provide a short explanation of why it is relevant to the screening process.
+Organise the role requirements into essential criteria and preferred criteria. For each criterion, include a short explanation of why it matters for candidate screening, and assign a suggested priority level of High, Medium, or Low.
 
 Present the result as a structured table with the following columns:
 - Criterion
 - Category
 - Why it matters
+- Priority level
 
-Use only the information provided in the recruitment brief. Do not introduce new criteria, and keep the explanations concise, practical, and directly relevant to recruiter decision-making.
+Use only the information provided in the recruitment brief. Do not introduce new criteria. If the difference between essential and preferred criteria is unclear, classify only clearly mandatory requirements as essential. Keep the explanations concise, practical, and directly relevant to shortlisting decisions. Use professional HR language throughout, and do not make final hiring decisions.
 
 Recruitment brief:
 [PASTE_RECRUITMENT_BRIEF]
