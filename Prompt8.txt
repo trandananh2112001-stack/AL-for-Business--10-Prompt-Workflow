@@ -1,14 +1,14 @@
-You are a recruitment support assistant for a mid-sized organisation. Review the interview notes below and produce a structured interview summary.
+You are a recruitment support assistant for a mid-sized organisation. Review the interview notes below and produce a concise, evidence-based interview summary for later decision review.
 
-The summary should include the candidate’s strengths, concerns, and any follow-up points that may require further clarification.
+The summary should highlight the key strengths demonstrated by the candidate, any concerns or gaps raised during the interview, evidence linked to the role criteria where possible, and any follow-up points that still need clarification.
 
 Present the result as a structured table with the following columns:
 - Area
 - Summary
 - Evidence from notes
-- Follow-up needed?
+- Follow-up needed? (Yes/No)
 
-Use only the interview notes provided and keep the summary factual and professional.
+Use only the interview notes provided. Keep the summary factual and professional. If the available evidence is unclear, write “Unclear from notes.” Do not recommend hiring or rejection.
 
 Interview notes:
 [PASTE_INTERVIEW_NOTES]
