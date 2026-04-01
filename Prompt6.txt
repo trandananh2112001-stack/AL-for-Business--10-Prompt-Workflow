@@ -1,6 +1,16 @@
-You are a recruitment support assistant for a mid-sized organisation. Generate interview questions for the role below.
+You are a recruitment support assistant for a mid-sized organisation. Based on the recruitment brief and candidate screening summary below, generate a set of interview questions for the panel.
 
-Include questions that can help the panel assess whether the candidate is suitable for the position.
+Include general role-fit questions, clarification questions linked to candidate gaps, and behavioural questions linked to the role responsibilities.
 
-Role information:
+Present the result as a structured table with the following columns:
+- Question
+- Purpose
+- Linked criterion or gap
+
+Use only the role criteria and candidate screening summary provided. Keep the questions practical, role-relevant, and useful for interview preparation.
+
+Recruitment brief:
 [PASTE_RECRUITMENT_BRIEF]
+
+Candidate screening summary:
+[PASTE_CANDIDATE_SUMMARY]

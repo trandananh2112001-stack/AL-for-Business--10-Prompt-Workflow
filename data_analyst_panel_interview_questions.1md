@@ -1,0 +1,36 @@
+# Interview Questions for Panel – Data Analyst
+
+**Note:** The uploaded materials provided only the recruitment brief. No candidate screening summary was included, so candidate-specific clarification questions linked to identified gaps could not be tailored. The questions below are based only on the role criteria and responsibilities in the recruitment brief.
+
+| Question | Purpose | Linked criterion or gap |
+|---|---|---|
+| Can you walk us through your background and explain how your experience aligns with this Data Analyst role? | Assess overall role fit and relevance of prior experience. | 1–3 years of experience in a Data Analyst or similar role |
+| Tell us about a recent analysis project where your work supported business decision-making. What was your approach and impact? | Test ability to analyse data and produce useful business insights. | Support business decision-making; analyse and interpret data |
+| Describe your process for collecting, cleaning, and validating data from multiple sources. | Assess technical discipline and data quality practices. | Collect, clean, and validate data from different sources |
+| How do you make sure the data you are reporting on is accurate and reliable? | Evaluate attention to detail and validation methods. | Detail orientation; data validation |
+| Can you give an example of how you identified a trend, issue, or business opportunity from data? | Test analytical thinking and insight generation. | Analyse data to identify trends, issues, and opportunities |
+| What experience do you have preparing regular reports or dashboards for management or business teams? | Assess reporting and dashboard capability. | Prepare regular reports and dashboards |
+| Which dashboard tools have you used, such as Power BI or Tableau, and how have you used them in practice? | Confirm hands-on dashboard tool experience. | Experience with Power BI, Tableau, or similar tools |
+| What types of KPIs have you reported on, and how did you decide which metrics mattered most? | Assess KPI understanding and business judgement. | Understanding of KPI reporting and dashboard development |
+| How would you explain a complex data finding to a non-technical stakeholder? | Test communication and ability to translate technical findings clearly. | Ability to present findings clearly to non-technical stakeholders |
+| Tell us about a time you had to turn analysis into a practical recommendation. What was your recommendation and what happened next? | Assess ability to move from insight to action. | Translate data findings into clear recommendations |
+| What is your level of confidence with Excel, and which functions or techniques do you use most often? | Check core technical capability. | Strong skills in Excel |
+| What kinds of SQL queries have you written in your previous roles? | Check core technical capability and depth of SQL experience. | Strong skills in SQL |
+| Tell us about a time you supported an ad-hoc request from a team such as Sales, Marketing, Finance, or Operations. How did you manage it? | Assess responsiveness, stakeholder support, and prioritisation. | Support ad-hoc analysis requests across departments |
+| How do you clarify a vague request from a stakeholder before starting your analysis? | Test communication, problem framing, and stakeholder management. | Support ad-hoc requests; communicate clearly |
+| Describe a situation where you found an error or inconsistency in data. What did you do? | Assess attention to detail and problem-solving. | Analytical and detail-oriented |
+| Have you used Python or R in your work? If so, what did you use it for? | Explore preferred but non-essential technical capability. | Preferred: experience with Python or R |
+| What experience have you had working with business or operational data? | Assess preferred domain relevance. | Preferred: experience with business or operational data |
+| Tell us about a time when your findings were challenged by a stakeholder. How did you respond? | Assess communication, resilience, and credibility. | Present findings clearly; stakeholder engagement |
+| How do you manage competing deadlines when multiple teams request analysis at the same time? | Test organisation and work prioritisation. | Support multiple business teams; role suitability |
+| What interests you about this role, and why do you believe you would be effective in it? | Assess motivation and final role fit. | Overall suitability |
+
+## Candidate-specific clarification questions
+Because no candidate screening summary was provided, the panel may wish to add targeted clarification questions once the candidate's gaps or unclear areas are known. Typical examples include:
+
+| Question | Purpose | Linked criterion or gap |
+|---|---|---|
+| Can you expand on your level of hands-on experience with SQL in your most recent role? | Clarify depth of skill if SQL experience appears limited or unclear in the screening summary. | Candidate gap to confirm: SQL capability |
+| Can you talk us through a dashboard you built yourself and the tools you used? | Clarify ownership and practical dashboard experience if this is not clear from the screening summary. | Candidate gap to confirm: Power BI/Tableau/dashboard development |
+| Your application mentions analysis experience. Can you explain how often you presented findings to non-technical stakeholders? | Clarify communication exposure if stakeholder presentation experience is unclear. | Candidate gap to confirm: communication with non-technical stakeholders |
+| Can you describe the types of business data you worked with and the decisions that data informed? | Clarify relevance of prior data experience if industry or data context is unclear. | Candidate gap to confirm: business or operational data experience |
