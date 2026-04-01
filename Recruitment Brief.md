@@ -1,14 +1,14 @@
 Job Title: Data Analyst
 
 Role Overview:
-We are looking for a Data Analyst to support business decision-making by collecting, analyzing, and interpreting data. The successful candidate will build reports and dashboards, identify trends, and deliver insights that help improve performance and efficiency.
+We are seeking a Data Analyst to support business decision-making by collecting, analyzing, and interpreting data. The successful candidate will build reports and dashboards, identify trends, and provide insights that help improve performance and efficiency.
 
 Key Responsibilities:
 - Collect, clean, and validate data from different sources.
 - Analyze data to identify trends, issues, and business opportunities.
 - Prepare regular reports and dashboards for management and business teams.
 - Support ad-hoc analysis requests from departments such as Sales, Marketing, Finance, or Operations.
-- Translate data findings into clear insights and recommendations.
+- Translate data findings into clear recommendations.
 
 Essential Requirements:
 - Bachelor’s degree in Data Analytics, Business, Statistics, Economics, IT, or a related field.
@@ -22,4 +22,4 @@ Preferred Requirements:
 - Experience working with business or operational data.
 - Understanding of KPI reporting and dashboard development.
 
-If you are a detail-oriented analyst who can turn data into business insight, we welcome your application.
+We welcome applications from candidates who are analytical, detail-oriented and able to communicate data clearly.
