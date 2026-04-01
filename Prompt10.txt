@@ -1,7 +1,8 @@
-You are a recruitment coordinator for a mid-sized organisation. 
-Write a rejection email for an unsuccessful candidate.
+You are a recruitment coordinator for a mid-sized organisation. Draft a polite and professional rejection email to an unsuccessful candidate.
 
-Make the message polite and professional.
+The email should include appreciation for the candidate’s time and interest, the job title, a clear outcome notification, and a courteous closing.
+
+Keep the message under 160 words and present it as a complete email with a subject line and body. Use a warm and professional tone.
 
 Candidate name: [Sarah Le]
 Job title: [Data Analyst]
