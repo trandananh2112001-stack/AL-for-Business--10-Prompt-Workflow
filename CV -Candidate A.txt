@@ -1,0 +1,55 @@
+Candidate Name: Emily Tran
+Location: Melbourne, Australia
+Email: emily.tran@email.com
+Phone: 0401 234 567
+
+Professional Summary
+Detail-oriented Data Analyst with 3 years of experience in business reporting, dashboard development, and performance analysis. Skilled in SQL, Excel, and Power BI, with experience translating business requirements into data insights for operational and management stakeholders. Strong communication skills and a consistent focus on data accuracy and reporting quality.
+
+Education
+Bachelor of Business Analytics
+Monash University
+Graduated: 2022
+
+Work Experience
+Data Analyst
+BrightEdge Retail Pty Ltd
+Melbourne, Australia
+Jan 2023 – Present
+
+- Build and maintain weekly and monthly performance dashboards in Power BI
+- Use SQL to extract, clean, and analyse sales, customer, and operational data
+- Support ad hoc reporting requests from finance, marketing, and operations teams
+- Present insights on sales trends, customer behaviour, and KPI performance to managers
+- Improve reporting consistency by documenting dashboard definitions and reporting logic
+- Reduce manual reporting time by automating recurring Excel and Power BI reports
+
+Reporting Analyst
+MarketAxis Solutions
+Melbourne, Australia
+Feb 2022 – Dec 2022
+
+- Prepared recurring KPI reports for internal business stakeholders
+- Assisted with dashboard updates and data validation tasks
+- Used Excel pivot tables, lookups, and formulas for business reporting
+- Worked with analysts to check data accuracy before distribution
+
+Technical Skills
+- SQL
+- Microsoft Excel
+- Power BI
+- Tableau
+- Python (basic for data cleaning and reporting automation)
+
+Key Strengths
+- Strong analytical and problem-solving ability
+- High attention to detail
+- Experience explaining data insights to non-technical stakeholders
+- Experience managing multiple reporting deadlines
+
+Additional Information
+- Comfortable working with cross-functional stakeholders
+- Experience in a commercial retail environment
+
+
+1
