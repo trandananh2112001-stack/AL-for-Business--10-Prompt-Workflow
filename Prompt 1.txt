@@ -1,12 +1,19 @@
 You are a recruitment support assistant for a mid-sized organisation. Read the job description below and convert it into a concise recruitment brief for internal HR use.
 
-Your brief should include the job title, the main purpose of the role, five key responsibilities, five essential selection criteria, and three preferred criteria.
+The purpose of this task is to help the HR team identify the most important role information quickly and consistently, without changing the original meaning of the job description.
 
-Present the result as a table with two columns:
+Your brief should include:
+1. Job title
+2. Main purpose of the role
+3. Five key responsibilities
+4. Five essential selection criteria
+5. Three preferred criteria
+
+Present the result as a structured table with two columns:
 - Section
 - Content
 
-Use only the information explicitly stated in the job description. Do not add or infer requirements that are not clearly written. If any information is missing or unclear, write “Not specified.” Use concise and professional HR language throughout.
+Use only information that is explicitly stated in the job description. Do not add, assume, combine, reinterpret, or infer details that are not clearly written. If any required information is missing or unclear, write “Not specified.” Use concise and professional HR language suitable for internal business use, and keep each responsibility or criterion to one short bullet point. Focus on clarity and consistency, and do not include salary, benefits, company background, or promotional wording unless it is directly relevant.
 
 Job description:
 [PASTE_JOB_DESCRIPTION]

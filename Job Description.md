@@ -2,16 +2,16 @@
 |---|---|
 | Job Title | Data Analyst |
 | Main Purpose | Collect, analyze, and interpret data to support business decision-making, build reports and dashboards, and provide insights that improve performance and efficiency. |
-| Key Responsibilities | 1. Collect, clean, and validate data from different sources.
-2. Analyze data to identify trends, issues, and business opportunities.
-3. Prepare regular reports and dashboards for management and business teams.
-4. Support ad-hoc analysis requests from departments such as Sales, Marketing, Finance, or Operations.
-5. Translate data findings into clear insights and recommendations. |
-| Essential Selection Criteria | 1. Bachelor’s degree in Data Analytics, Business, Statistics, Economics, IT, or related field.
-2. 1–3 years of experience in a Data Analyst or similar role.
-3. Strong skills in Excel and SQL.
-4. Experience with Power BI, Tableau, or similar dashboard tools.
-5. Ability to present findings clearly to non-technical stakeholders. |
-| Preferred Criteria | 1. Experience with Python or R.
-2. Experience working with business or operational data.
-3. Understanding of KPI reporting and dashboard development. |
+| Key Responsibilities | - Collect, clean, and validate data from different sources.
+- Analyze data to identify trends, issues, and business opportunities.
+- Prepare regular reports and dashboards for management and business teams.
+- Support ad-hoc analysis requests from departments such as Sales, Marketing, Finance, or Operations.
+- Translate data findings into clear insights and recommendations. |
+| Essential Selection Criteria | - Bachelor’s degree in Data Analytics, Business, Statistics, Economics, IT, or related field.
+- 1–3 years of experience in a Data Analyst or similar role.
+- Strong skills in Excel and SQL.
+- Experience with Power BI, Tableau, or similar dashboard tools.
+- Ability to present findings clearly to non-technical stakeholders. |
+| Preferred Criteria | - Experience with Python or R.
+- Experience working with business or operational data.
+- Understanding of KPI reporting and dashboard development. |
