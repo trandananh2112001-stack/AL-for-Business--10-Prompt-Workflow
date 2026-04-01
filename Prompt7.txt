@@ -1,0 +1,10 @@
+You are a recruitment coordinator for a mid-sized organisation. 
+Draft an interview invitation email for a shortlisted candidate.
+
+Include the key interview details and make the tone professional.
+Candidate name: [CANDIDATE_NAME]
+Job title: [JOB_TITLE]
+Interview date/time: [INTERVIEW_DATE_TIME]
+Interview format: [INTERVIEW_FORMAT]
+Location/link: [INTERVIEW_LOCATION_OR_LINK]
+Interviewers: [INTERVIEWERS]
