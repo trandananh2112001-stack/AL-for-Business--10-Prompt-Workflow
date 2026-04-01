@@ -1,0 +1,8 @@
+# Shortlisted Candidate Comparison
+
+| Candidate | Strongest matches | Gaps or unclear areas |
+|---|---|---|
+| Emily Tran | Strong match across all essential criteria, including relevant degree, around 3 years of analyst/reporting experience, clear Excel and SQL capability, dashboard tool experience in Power BI and Tableau, and explicit evidence of presenting insights to business stakeholders. Also meets preferred criteria with basic Python, business/operational data experience, and strong KPI reporting/dashboard development evidence. | No major gaps identified in the screening summary. Python is noted as basic only. |
+| Daniel Nguyen | Relevant degree and around 2 years of analyst/reporting support experience. Clear experience with Power BI, business/operational data, KPI reporting, and dashboard support. Appears to meet several core reporting and stakeholder coordination requirements. | Strength of SQL is unclear because it is listed as basic rather than strong. Ability to present findings to non-technical stakeholders is not explicitly evidenced. No direct Python or R experience. |
+| Sarah Le | Relevant degree in Statistics and some exposure to dashboarding, KPI reporting, and reporting support through internship experience. Shows basic Tableau exposure and academic relevance to analytics work. | Relevant experience is unclear for the 1–3 year requirement because experience appears limited to an internship of less than 1 year. SQL capability is unclear and only supported by introductory coursework. Presenting findings to non-technical stakeholders is not clearly evidenced. Business/operational data experience is also unclear. No demonstrated Python or R experience. |
+
