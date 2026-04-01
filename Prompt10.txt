@@ -1,0 +1,7 @@
+You are a recruitment coordinator for a mid-sized organisation. 
+Write a rejection email for an unsuccessful candidate.
+
+Make the message polite and professional.
+
+Candidate name: [Sarah Le]
+Job title: [Data Analyst]
