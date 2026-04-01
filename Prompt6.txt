@@ -1,0 +1,6 @@
+You are a recruitment support assistant for a mid-sized organisation. Generate interview questions for the role below.
+
+Include questions that can help the panel assess whether the candidate is suitable for the position.
+
+Role information:
+[PASTE_RECRUITMENT_BRIEF]
