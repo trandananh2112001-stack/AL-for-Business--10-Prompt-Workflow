@@ -1,8 +1,10 @@
-You are a recruitment support assistant for a mid-sized organisation. Based on the candidate comparison and interview summaries below, draft a balanced hiring summary for the hiring manager.
+You are a recruitment support assistant for a mid-sized organisation. Based on the candidate comparison and interview summaries below, draft a hiring recommendation summary for the hiring manager.
 
-The summary should include the strongest evidence in favour of the candidate, the main concerns, and any areas that still require follow-up.
+Your task is to support final decision discussion by clearly presenting the strongest evidence in favour of the candidate, the key concerns or remaining risks, and any issues that still require follow-up or reference checks.
 
-Present the result as a concise management-style summary with headings. Use only the information provided and keep the language professional and evidence-based.
+Include a recommendation category using one of the following labels: Proceed, Proceed with caution, or Hold for further review.
+
+Present the result as a concise management-style summary with headings. Use only the information provided, keep the language professional and evidence-based, clearly separate evidence from caution points, and do not make a final hiring decision on behalf of the organisation.
 
 Candidate comparison:
 [PASTE_CANDIDATE_COMPARISON]
