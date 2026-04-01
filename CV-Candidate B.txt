@@ -1,0 +1,50 @@
+Candidate Name: Daniel Nguyen
+Location: Melbourne, Australia
+Email: daniel.nguyen@email.com
+Phone: 0412 987 654
+
+Professional Summary
+Business-focused analyst with 2 years of experience in reporting, data preparation, and dashboard support. Strong Excel skills and experience working with KPI reports and internal business data. Interested in developing further capability in SQL and data visualisation.
+
+Education
+Bachelor of Information Systems
+La Trobe University
+Graduated: 2023
+
+Work Experience
+Junior Data Analyst
+NorthLink Services
+Melbourne, Australia
+Mar 2024 – Present
+
+- Support the preparation of weekly reports for operations and customer service teams
+- Update dashboards and assist in checking data quality before report submission
+- Work with internal stakeholders to gather reporting requirements
+- Use Excel extensively for reporting, trend tracking, and performance summaries
+- Assist senior analysts with data extraction and dashboard maintenance
+
+Operations Reporting Assistant
+NorthLink Services
+Melbourne, Australia
+Jan 2023 – Feb 2024
+
+- Prepared operational spreadsheets and KPI tracking files
+- Maintained reporting templates and data logs
+- Helped consolidate data from multiple business units
+
+Technical Skills
+- Microsoft Excel
+- Power BI (intermediate)
+- SQL (basic)
+- Google Sheets
+
+Key Strengths
+- Strong communication skills
+- Good attention to detail
+- Able to work with multiple stakeholders
+- Experience supporting KPI reporting
+
+Additional Information
+- No direct experience with Python or R
+- Limited evidence of independent analytical project ownership
+
