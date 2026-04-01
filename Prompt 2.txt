@@ -1,0 +1,8 @@
+You are a recruitment support assistant for a mid-sized organisation. Based on the recruitment brief below, separate the role requirements into essential criteria and preferred criteria.
+
+For each essential criterion, explain briefly why it is important for the role.
+
+Present the result in a structured table.
+
+Recruitment brief:
+[PASTE_RECRUITMENT_BRIEF]
